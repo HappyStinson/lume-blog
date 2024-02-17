@@ -1,0 +1,16 @@
+lang: en
+
+home:
+  welcome: Hello, my name is Rasmus. I am grateful that you are here.
+
+menu_links: []
+extra_head: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: Nordling.xyz
+  description: Dive into a world of limitless possibilities where dreams meet action. Explore my personal portfolio and blog for insights on dreaming big, building empowering habits, and seizing opportunities in life, with a special emphasis on music and tech. Get inspired by innovative ideas, empowering narratives, and practical advice. Let's embark on a journey of growth and achievement together. Start now!
+  title: "=title"
+  image: "=image"
+  twitter: "@HappyStinson"
+  lang: en
