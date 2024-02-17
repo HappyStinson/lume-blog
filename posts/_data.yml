@@ -1,0 +1,6 @@
+type: post
+layout: layouts/post.vto
+author: Rasmus Nordling
+
+metas:
+  title: "=title"
