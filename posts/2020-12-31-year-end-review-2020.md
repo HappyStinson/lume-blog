@@ -33,6 +33,8 @@ Goals I thought would be accomplished in 2020:
 
 I watched this video by Brian Tracy on [How to Create an Effective Action Plan](https://youtu.be/haRCpUOCG_M) and intentionally set goals in different areas for me to grow.
 
+### Business & Career
+
 My **Business & Career** goal went from *I release my debut album with 10 songs and 30 minutes of original music by the end of the year* which is more a personal achievement, to me more focusing on passing all my subjects at uni. Assessments have priority over recreational songwriting.  
 
 I collaborated with producer [9/10](https://open.spotify.com/artist/01rj0l4H7V9LvfyuqvaxIH?si=DDBcbMCCQOmZMrk6_eRtTQ) on some unreleased songs in the beginning of the year. In trimester 2, Brisbane went into a lockdown due to COVID and we transitioned into online learning with BlueJeans and Zoom. I kept my head down and adapted to the circumstances. I managed to do all of my assessments with decent grades, without access to the campus facilities.
@@ -51,7 +53,7 @@ I collaborated with producer [9/10](https://open.spotify.com/artist/01rj0l4H7V9L
 
 I then had my scheduled break between June - September where I focused on my personal growth and joined *RedStone* as a guitarist. We worked on and performed original songs, drove to Old Petrie Town for a photoshoot, and recorded the single *Drifting Away*.
 
-What about Sarah you might ask? She continued with trimester 3 and formed [Flight of Thoughts](https://open.spotify.com/artist/6RvOfogp2PoWCsu1HdHgBo?si=_Ghvp2mdRIezC_2O8xuZoA).
+What about Sarah you might ask? She continued with trimester 3 and formed [Flight of Thoughts](https://linktr.ee/FOTBand).
 
 After the break I resumed my degree and formed the "guitar driven rock band" *Junktion* with Mandy (vocals), Rob (vocals/guitar/keyboard) and Joohan (drums), while playing with RedStone.
 Junktion recorded the single *Righteous Brother* (that I wrote) with producer Steve James, who also produced Drifting Away.
@@ -62,13 +64,13 @@ I enjoyed attending masterclasses in Guitar (Simon Gardner), Vocals (Emma Wilson
 
 ![Junktion performing at the zoo in Brisbane mid-trimester](/img/rasmus/junktion-zoo-perf1-regular.webp)
 
-![Junktion performing at the zoo in Brisbane end of trimester](img/rasmus/junktion-zoo-perf2-regular.webp)
+![Junktion performing at the zoo in Brisbane end of trimester](/img/rasmus/junktion-zoo-perf2-regular.webp)
 
 Some assessments:
 
 - Analysed Karma Police and Money, and wrote a Music Tech Report (let's not talk about it)
 - Arranged Phil Collins - Another Day in Paradise into hard rock (inspired by Ghost, The Offspring, and KISS) with score for a band with a contemporary horn section (trumpet, saxophones, and trombone)
-- Remixed [Speak Softly - Broken Man](https://youtu.be/thC0RCrVWFo)
+- Remixed [Speak Softly - Broken Man](https://speaksoftly.bandcamp.com/track/broken-man-2)
 - Produced a song to the vocal stems from Lorde - Homemade Dynamite
 
 Outside of regular assessments, RedStone took on several collaboration projects this trimester:
@@ -89,7 +91,7 @@ I've mostly struggled with Ear Training and Guitar Performance this year and und
 </figure>
 
 You deserve a reading break for making it here. Allow yourself to *Drift away* to the single while browsing some of our photos. 📷  
-You can give RedStone a 👍 on [Facebook](https://www.facebook.com/RedStone-102867844858279) and [follow us on Instagram](https://www.instagram.com/redstone_music/) to stay up to date.
+You can give RedStone a 👍 on [Facebook](https://www.facebook.com/RedStone-102867844858279) and [follow us on Instagram](https://www.instagram.com/redstone_music/) to stay up to date (we are not actively playing).
 
 <div id="instapost">
   <iframe src="https://www.instagram.com/p/CG9OWneBhui/embed/" width="80%" frameborder="0" scrolling="no"></iframe>
@@ -100,6 +102,8 @@ You can give RedStone a 👍 on [Facebook](https://www.facebook.com/RedStone-102
   <iframe src="https://www.instagram.com/p/CGZDZNjhWG_/embed/" width="80%" frameborder="0" scrolling="no"></iframe>
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
+
+### Health & Fitness
 
 My **Health & Fitness** focus was to *exercise for 150 minutes each week to prioritize my health, by the end of October*.
 
@@ -123,9 +127,7 @@ Stats:
 - My only cycling this year was when I rode a CityCycle 7 km from Teneriffe ferry to Dutton Park at 2 AM (another long story)
 - Picked up a habit of Monday intermittent fasting again in January. Was fairly consistent with it over the year but allowed me some days to eat
 
-[The Running Experience](https://www.youtube.com/channel/UCjGZ6D8hJFvLur5K_p9vKAA) on YouTube has helped me with follow along warm-ups and cooldowns, among other good things.
-
-Here is my [Garmin Connect profile](https://connect.garmin.com/modern/profile/cd029f9a-6fa0-49d3-88e3-9430a5c47991), if anyone wants to compare stats or just stalk me. That's fine too!
+[The Run Experience](https://www.youtube.com/channel/UCjGZ6D8hJFvLur5K_p9vKAA) on YouTube has helped me with follow along warm-ups and cooldowns, among other good things.
 
 ![Rasmus running in Brisbane City Botanic Gardens](/img/rasmus/sunrise-marathon-regular.webp)
 
@@ -143,7 +145,9 @@ I have been mostly healthy and managed to stay safe from the virus. I did take a
 
 ![Inspirational quote](/img/screenshots/oak-quote-regular.webp)
 
-The outcome with my **Financial Goals** is to have my money work for me and utilize the [8th Wonder of the World, compound interest](https://www.listenmoneymatters.com/compound-interest/).
+### Finances
+
+The outcome with my **Financial Goals** is to have my money work for me and utilize the [8th Wonder of the World](https://www.listenmoneymatters.com/compound-interest/), *compound interest*.
 
 *I have diversified my savings in four buckets with varied risk by the end of the year*:
 
@@ -166,17 +170,25 @@ I wanted to move out of the share house in Fairfield and after doing some resear
   <figcaption>My door in Unit 4 at Raymont, themed "Decades"</figcaption>
 </figure>
 
-I also opened an Australian bank account at Bankwest to transfer SEK --> AUD with [TransferWise](https://transferwise.com/invite/u/rasmusn39) (invite that gives you a free international transfer of up to A$1000).
+I also opened an Australian bank account at Bankwest to transfer SEK → AUD with Wise[^1].
+
+[^1]: [Wise invite](https://transferwise.com/invite/u/rasmusn39) (this link gives you a free international transfer of up to A$1000).
 
 I had to apply for an Australian Tax File Number to give to my bank in Sweden.
 
-Let's be honest **Planning, Reviewing & Organizing** haven't been my strengths.
+### Productivity
+
+Let me be honest, **Planning, Reviewing & Organizing** haven't been my strengths.
 
 *I review my goals and plan the coming week weekly by the end of the year*:
 
-At least I get more stuff done since I started using [Todoist](https://todoist.com/r/rasmus_nordling_aleibd), but I need to build a habit of reviewing my goals and make sure I don't lose sight of my outcomes.
+At least I get more stuff done since I started using [Todoist](https://todoist.com/home)[^2], but I need to build a habit of reviewing my goals and make sure I don't lose sight of my outcomes.
 Did about 16 weekly reviews this year. 😬 One thing that helped me was having weekly calls with my family (accountability) that forced me to recap my journal and review my completed tasks.  
 Here's a good article called [Create a Weekly Attack Plan](https://www.artofmanliness.com/articles/weekly-plan/) that I got inspiration from.
+
+[^2]: I use Todoist on a daily basis and ❤️ it!
+
+### Recreation
 
 I didn't do much with the **Recreational** goals. *I scuba dive in the ocean by the end of the year* has been put on hold.
 
@@ -190,14 +202,16 @@ I have seen some live music this year including: JMC trimester performances at v
 
 ## What went well? / What did I do right (or well) this year? 👍
 
-**College life:** Probably the best decision this year was moving to the Raymont College. I have gotten many new mates, good food, and a safe community to be part of during hectic times this year.
+### College Life
+
+Probably the best decision this year was moving to the Raymont College. I have gotten many new mates, good food, and a safe community to be part of during hectic times this year.
 
 - Performed Cat Stevens Father and Son with Daniel Grammon and G-Man on Father's Day in September
 - Attended Music tutorials with Scarlett Gallery to get help with assessments
 - Studied outside of my room to be more productive
 - Applied for Spirit of Raymont Scholarship ($1000 that goes toward paying rent) - Waiting for decision
 
-**Relationships:**
+### Relationships
 
 - Skyped with my parents and sister more or less every weekend since I arrived in 🇦🇺
 - 10 year anniversary with my friend Mathias. Rang him up a couple of times during the year to ask for life advice, from someone 2 days older. Here's us performing my song [Empty Apartment](https://youtu.be/8o8z3_cP7Vg)
@@ -211,17 +225,11 @@ I have seen some live music this year including: JMC trimester performances at v
 
 ![Note from friend at Raymont College](/img/personal/raymont-blessing-regular.webp)
 
-**Are You Still Awake? Here's for the nerds** 🤓
-
-- Updated my MacBook's macOS from High Sierra (10.13) to Catalina (10.15.7)
-- Updated my iPhone's iOS from 12.4.1 to 13.6.1
-- Transferred my domain name (rasmusnordling.se) from Miss Hosting to EgenSajt for a better deal on renewals
-
 ## What did not go well? / What did I do wrong (or poorly) this year? 👎
 
 - Did not review the material from the previous trimesters before starting the next, especially after having a big gap between T2 and 3
 - Trying to create a Facebook account with a fake name
-- Trying to raise money for the Polished man Campaign. 💅 [My campaign](https://my.polishedman.com/rasmus-nordling) only received one donation from my mate Chris. Maybe work on a better strategy for 2021
+- Trying to raise money for the [Polished Man](https://polishedman.com/) campaign. I barely told anyone, resulting in   a single donation from my mate Chris. Maybe work on a better strategy for 2021? (well it didn't happen).
 - Did not finish or publish my blog post drafts (they keep piling up)
 - Installing Roland keyboard drivers and not being able to boot MacBook afterwards 😱 (I solved it)
 - Attempted Brian Tracy's 30 day affirmation challenge. Broke my streak on day 16. 😔
@@ -230,11 +238,11 @@ I have seen some live music this year including: JMC trimester performances at v
 
 *I do the 50/90 Challenge and write 50 songs between 4 July and 1 October*:
 
-How do you get better at your craft? By practicing regularly and challenging yourself such as trying to write [50 Songs in 90 Days](http://fiftyninety.fawmers.org/user/happystinson). I completed 3 songs but then got way to busy in the trimester I suppose.
+How do you get better at your craft? By practicing regularly and challenging yourself such as trying to write [50 Songs in 90 Days](https://write.fawm.org/@happystinson). I completed 3 songs but then got way to busy in the trimester I suppose.
 
 ## Events
 
-With **Raymont College:** 🏘❤️
+### Raymont College
 
 - Climbing, biking, laser tag, bush dance, and commencement dinner
 - Day trip to Kings Beach on Sunshine Coast
@@ -254,19 +262,22 @@ With **Raymont College:** 🏘❤️
 
 <div id="instapost">
   <iframe src="https://www.instagram.com/p/CC7vCQYpy04/embed/" width="80%" frameborder="0" scrolling="no"></iframe>
+  <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
 ![Action photo from Scooby-Doo attraction at Movie World](/img/rasmus/movieworld-scoobydoo-regular.webp)
 
 ![Action photo from Wild West Falls attraction at Movie World](/img/rasmus/movieworld-wildwestfalls-regular.webp)
 
-**Spiritual Encounters:**
+### Spiritual Encounters
 
 - Went to the Uniting church in Yeronga and Mount Gravatt a couple of Sundays when I still lived in Fairfield. I also visited [Hillsong](https://hillsong.com/australia/brisbane/) twice before the lockdown to enjoy contemporary worship music. Stepped out of my comfort zone and went alone to meet new people. It was a mixture of singing, praying, taking communion, and gaining new insights and outlooks on life
-- [Zen Habits Zoom Meditation](https://zenhabits.net/meditation/) 🧘‍♂️
-- Spent Christmas day in Mount Gravatt with my mate Jock and his large family. I had an Australian Christmas with lots of good food, drinks, laughter, and songs!
+- [Zen Habits](https://zenhabits.net) Zoom Meditation 🧘‍♂️
+- Spent Christmas Day in Mount Gravatt with my mate Jock and his large family. I had an Australian Christmas with lots of good food, drinks, laughter, and songs!
 
-I have been to a couple of new **Meetups** this year:
+### Meetups
+
+I have been to a couple of new [Meetups](https://www.meetup.com/) this year:
 
 - BrisRuby on Ruby development (this is a Jekyll blog after all)
 - Brisbane Web Accessibility & Inclusive Design
@@ -301,9 +312,11 @@ I have been to a couple of new **Meetups** this year:
 
 ![Screenshot of the game Futurama: Worlds of Tomorrow](/img/screenshots/futurama-vegemite-regular.webp)
 
-I turned 29... No wait, that was last year. I turned 3️⃣0️⃣ in October.
+<figure>
 
-![Rasmus turning 30](/img/rasmus/cake-30-regular.webp)
+  ![Rasmus turning 30](/img/rasmus/cake-30-regular.webp)
+  <figcaption>I turned 29... No wait, that was last year. I turned 3️⃣0️⃣ in October.</figcaption>
+</figure>
 
 ![Rasmus transformation in 2020](/img/rasmus/transformation-2020-regular.webp)
 
@@ -316,7 +329,11 @@ I turned 29... No wait, that was last year. I turned 3️⃣0️⃣ in October.
 - Technical work such as chords, scales, and arpeggios
 - Lead guitar techniques
 
-## What I've been reading 📚
+## What Did I Consume?
+
+Have a look at my YouTube playlist [2020 Year End Review](https://www.youtube.com/playlist?list=PLzqgN4J6JhSv3GVGBwW8khGCFAJsYMP59) that contains a mix of music videos, TED Talks, meditation and more.
+
+### Read 📚
 
 > Today a reader, tomorrow a leader. - [W. Fusselman](https://www.dictionary-quotes.com/today-a-reader-tomorrow-a-leader-w-fusselman/)
 
@@ -335,87 +352,17 @@ Finished:
 - Johan Langer - Musikbranchen - Från dröm till verklighet 🇸🇪 (book on the Swedish music industry)
 - Bill Crecelius - A Meditator's Handbook *How to Untie Knots*
 
-## What I've been watching 📺
+### Watched 📺
 
-YouTube seems to be my biggest source for video content. I have listed some highlights further down.
+**Movies**: Batman Begins, Finding Joe, Peaceful Warrior, A Year and a Half in the Life Of Metallica 🤘, ABBA: Secrets of Their Greatest Hits, Hangover II, Eurovision Song Contest: The Story of Fire Saga, The Help, Batman Returns (Catwoman fan edit from IFDb), Back to the Future trilogy (back to back 😅), Ford v Ferrari, The Departed, Begin Again, Once 🎸🎹, Role Models, Project Power, NERVE, The Barkley Marathons: The Race That Eats Its Young, Christmas with the Kranks 🎅, The Christmas Chronicles: Part Two, Snowed-Inn Christmas, and Yrrol - en kolossalt genomtänkt film (I've got ENG Sub if anyone wants to have a movie night...) 😂 🇸🇪
 
-These are the only movies and shows that I saw in 2020.
+**TV**: Housos S01, Hannibal two episodes with G-Man, The Boys (Pilot), Nail Salon Paris, K-drama with Stasia from Raymont 🇷🇺🐼, Eurovision - Australia Decides, Falkenberg Forever (Pilot), Får vi följa med? (Rewatch of the Pilot), Alla mot Alla med Filip och Fredrik S03-04, Hitlåtens historia: Broder Daniel - Shoreline, Auditions from Swedish Idol, and Sven-David Sandström: I Bachs fotspår.
 
-- Batman Begins
-- Finding Joe
-- Peaceful Warrior (also see Dan Millman's TED Talk below)
-- [A Year and a Half in the Life Of Metallica](https://youtu.be/42_ZT-xx9vQ) 🤘
-- ABBA: Secrets of Their Greatest Hits
-- Hangover II
-- [Eurovision Song Contest: The Story of Fire Saga](https://youtu.be/PlBUH8zMZng)
-- The Help
-- Batman Returns (Catwoman fan edit from IFDb)
-- Back to the Future trilogy (back to back)
-- Ford v Ferrari
-- The Departed
-- Begin Again
-- [Once](https://youtu.be/k8mtXwtapX4) 🎸🎹
-- Role Models
-- Project Power
-- NERVE
-- The Barkley Marathons: The Race That Eats Its Young
-- Christmas with the Kranks 🎅
-- The Christmas Chronicles: Part Two
-- Snowed-Inn Christmas
-- Yrrol - en kolossalt genomtänkt film (I've got ENG Sub if anyone wants to have a movie night...) 😂 🇸🇪
+**TED Talks, *Ideas worth spreading***: [to form better habits](https://www.ted.com/playlists/321/talks_to_form_better_habits), [The secret to living longer may be your social life - Susan Pinker](https://www.ted.com/talks/susan_pinker_the_secret_to_living_longer_may_be_your_social_life), [How to stop swiping and find your person on dating apps - Christina Wallace](https://www.ted.com/talks/christina_wallace_how_to_stop_swiping_and_find_your_person_on_dating_apps), [How to Ikigai - Tim Tamashiro](https://www.ted.com/talks/tim_tamashiro_how_to_ikigai), [Who are you, really? The puzzle of personality - Brian Little](https://www.ted.com/talks/brian_little_who_are_you_really_the_puzzle_of_personality).
 
-- Housos S01
-- Hannibal two episodes with G-Man
-- The Boys (Pilot)
-- Nail Salon Paris, K-drama with Stasia from Raymont 🇷🇺🐼
-- [Eurovision - Australia Decides](https://youtu.be/1xrCocjmv7w)
+**MISC**: Brian Eno: Behind The Reflection - BBC Click, DragonForce live stream, Everything Music with Rick Beato, Guitar related reviews from [EytschPi42](https://www.youtube.com/user/EytschPi42), Guitarsonist guitar "lessons" 😂, Kel-n-Rich reaction videos, Music Production videos from *Musician on a Mission* and *Recording Revolution*, [Sunday with Ola](https://www.youtube.com/playlist?list=PLXMwtXJnJ93h41HCbWML8uGyYC8I-bPhy) Englund (guitarist in Feared and the Haunted), videos on passive income/side hustle ideas; growing a YouTube channel; editing videos in Final Cut; and living in Longyearbyen, Svalbard.
 
-- Music Videos ❤️
-  - [Sakuran Zensen - TAXIMAN](https://youtu.be/u0JSFkmWqsM)
-  - [Shania Twain - No One Needs To Know](https://youtu.be/681Y-UQ0LWI)
-  - [Esperanza Spalding - Move Many (joints)](https://youtu.be/hirurODtA1k)
-- Running 👟
-  - [Every Single Street with Rickey Gates](https://youtu.be/jy_W5qsjB5U)
-  - [Dream Trip Norway](https://youtu.be/9bbnK-ES3Og)
-  - [The KETO DIET - Good or Bad for Runners?](https://youtu.be/LOqXLUcFO_A)
-- TED Talks, *Ideas worth spreading*
-  - [8 TED Talks to form better habits](https://www.ted.com/playlists/321/talks_to_form_better_habits)
-  - [Go with your gut feeling - Magnus Walker](https://youtu.be/KDQrMoksJ4Q)
-  - [Are we born to run? - Christopher McDougall](https://youtu.be/b-iGZPtWXzE)
-  - [The secret to living longer may be your social life - Susan Pinker](https://www.ted.com/talks/susan_pinker_the_secret_to_living_longer_may_be_your_social_life)
-  - [How to stop swiping and find your person on dating apps - Christina Wallace](https://www.ted.com/talks/christina_wallace_how_to_stop_swiping_and_find_your_person_on_dating_apps)
-  - [How to Ikigai - Tim Tamashiro](https://www.ted.com/talks/tim_tamashiro_how_to_ikigai)
-  - [Dan Millman at TEDxBerkeley](https://youtu.be/MDL85fzdc1g)
-  - [Reggie Watts disorients you in the most entertaining way](https://youtu.be/BdHK_r9RXTc)
-  - [How sampling transformed music - Mark Ronson](https://youtu.be/H3TF-hI7zKc)
-  - [Who are you, really? The puzzle of personality - Brian Little](https://www.ted.com/talks/brian_little_who_are_you_really_the_puzzle_of_personality)
-- Brian Eno: Behind The Reflection - BBC Click
-- DragonForce live stream
-- Everything Music with Rick Beato
-- Gibson TV [Icons: Metallica & Mötley Crüe Producer Bob Rock](https://youtu.be/jMHHMb2cmuk)
-- Guitar related reviews from [EytschPi42](https://www.youtube.com/user/EytschPi42)
-- Guitarsonist guitar "lessons" 😂
-- Kel-n-Rich reaction videos
-- Music Production videos from *Musician on a Mission* and *Recording Revolution*
-- [Sunday with Ola](https://www.youtube.com/playlist?list=PLXMwtXJnJ93h41HCbWML8uGyYC8I-bPhy) Englund (guitarist in Feared and the Haunted)
-- [The Art of Mixing - David Gibson](https://youtu.be/TEjOdqZFvhY)
-- [Tony Robbins Rapid Planning Method (RPM)](https://youtu.be/DJNY8jjF7Bs)
-- Videos on passive income/side hustle ideas
-- Videos on growing a YouTube channel and editing videos in Final Cut
-- Videos on living in Longyearbyen, Svalbard
-
-På svenska: 🇸🇪
-
-- Falkenberg Forever (Pilot)
-- Får vi följa med? (Rewatch of the Pilot)
-- Alla mot Alla med Filip och Fredrik S03-04
-- Hitlåtens historia: Broder Daniel - Shoreline
-- Auditions from Swedish Idol
-- Sven-David Sandström: I Bachs fotspår
-
-## What I've been listening to 🎧
-
-At first I was just going to list all the artists and albums that I consumed over the year and then realized we're almost in 2021 now and it's way more convenient (and fun) to share music as playlists!💡
+### Listened To 🎧
 
 Here's the 100 Songs from 2020 that the Spotify algorithm gave me.
 
@@ -425,11 +372,7 @@ Here's another 80+ songs that became the *soundtrack of my life* in 2020.
 
 <iframe src="https://open.spotify.com/embed/playlist/5ncrgupvC12lqegW5s2cGA" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-![Meme](/img/memes/siri-meme-small.webp)
-
-![iPhone screenshot of Ghost song Ritual playing](/img/screenshots/siri-ritual-small.webp)
-
-### Podcasts
+**Podcasts**
 
 In English:
 
@@ -454,7 +397,7 @@ På svenska: 🇸🇪
 - Sveriges Radio Musikdokumentär: David Bowie
 - SYNFÄLT FRAMÅT!
 
-### Chainsaws! 🤘
+**Chainsaws!** 🤘
 
 Tack Maako 🤠 for sharing this nugget, haha!
 
@@ -481,7 +424,7 @@ Here's some of my other expenses this year:
 - Thong Sandals and Skechers Summits walking shoes
 - [Bubble tea](https://en.wikipedia.org/wiki/Bubble_tea)
 - Aloe Vera Juice at Hanaromart in Toowong
-- [Icebug Outrun RB9X](https://icebug.com/outrun-rb9x) running shoes and [Garmin FĒNIX® 6](https://discover.garmin.com/en-US/fenix-6/) to replace my Forerunner 735 XT multisport watch
+- Icebug Outrun RB9X running shoes and [Garmin FĒNIX® 6](https://www.garmin.com/en-US/p/641449) to replace my Forerunner 735 XT multisport watch
 
 ![A pair of new Icebug and worn Saucony running shoes](/img/personal/icebug-outrun-2020-small.webp)
 
@@ -506,6 +449,8 @@ Here's some of my other expenses this year:
 - Elective units in trimester 4: Music Tech III, and Lyric & Songwriting II
 - Run my first ultra, 100 km ? 🏃‍♂️😜
 
+Hope you found this interesting. Until next time.
+
 ## tl;dr
 
 Lucky you, I decided to make a summary at the end.
@@ -517,26 +462,20 @@ Lucky you, I decided to make a summary at the end.
 - Turned 30 years old in October 🎂 (I still look 23 apparently)
 - Bought some new clothes, shoes, software, a second electric guitar, multi-effects unit
 - Got back on Facebook after 881 days or so of staying away
-- Started the YouTube channel [Ras World of Music & Lyrics](https://www.youtube.com/channel/UCCQ5rf6RM2ZazrINwVcBC8Q)
+- Started the YouTube channel [Ras World of Music & Lyrics](https://www.youtube.com/channel/UCCQ5rf6RM2ZazrINwVcBC8Q) (rebranded as Bangers ‘n’ Biz)
 - Recorded *Drifting Away*, an EP, and starred in a music video with RedStone
 - Formed the band Junktion with fellow students Mandy, Rob, and Joohan
 - Recorded *Righteous Brother* with Junktion
 - Ran 661 km
-- Raised money for the Polished man Campaign and painted my nail blue. My campaign only received one donation from my mate Chris G
+- Raised money for the Polished Man Campaign and painted my nail blue. My campaign only received one donation from my mate Chris G
 
 ![Animals in Brisbane](/img/travel/animals-brisbane-2020-regular.webp)
 
 ![Panorama view from Kayes Rocks in Brisbane](/img/travel/panorama-kayes-rocks-regular.webp)
 
-![Rasmus as Disco](/img/rasmus/ras-disco-regular.webp)
-
-Okay that is everything. Did you bother to read it all? LEGEND! Peace Out! ☮️✌️
-
 <div id="instapost">
   <iframe src="https://www.instagram.com/p/B6fZ7L-gbc8/embed/" width="80%" frameborder="0" scrolling="no"></iframe>
   <script async src="//www.instagram.com/embed.js"></script>
 </div>
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/NsKiCmWdA96V4w10N5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SkyTV-new-year-happy-nye-NsKiCmWdA96V4w10N5">via GIPHY</a></p>
 
 / Rasmus

@@ -9,8 +9,6 @@ In this first part I will take you through the first half of 2010s where I spent
 
 <!--more-->
 
-If you don't know me that well or want to know what my latest adventure is, you can check out the page [about Dream BIG and Rasmus](/about).
-
 ## My Life in Blekinge (2010-2016)
 
 ### "Studying"
@@ -30,7 +28,7 @@ This was my first time living by myself and away from the family. I didn't bring
 ![Rasmus apartment in Ronneby 2010](/img/personal/ronneby-bathroom-regular.webp)
 
 Since the Ronneby Campus was closing, me, my friends, and girlfriend at the time moved to the Minerva apartments in Karlskrona.
-When the campus in Ronneby closed, the two organisations 6& (Ronneby [Sexmästeri](https://sv.wikipedia.org/wiki/Sexm%C3%A4steri)) and 6:- (Carlskrona Sexmästeri) would merge and a group of sixteen handpicked students were assigned the task to form a new organisation. Myself along with my fifteen friends came up with the name [Sexistenz](http://sexistenz.bthstudent.se/). It's one of the groups responsible for organizing events for the fellow students.  
+When the campus in Ronneby closed, the two organisations 6& (Ronneby [Sexmästeri](https://sv.wikipedia.org/wiki/Sexm%C3%A4steri)) and 6:- (Carlskrona Sexmästeri) would merge and a group of sixteen handpicked students were assigned the task to form a new organisation. Myself along with my fifteen friends came up with the name [Sexistenz](https://sexistenz.bthstudent.se/). It's one of the groups responsible for organizing events for the fellow students.  
 We voted on a new outfit and kept the best traditions, along with making new ones. We all had different skillsets and I was SpexMästare, which I guess meant my skillset included being creative, spontaneous, and make people have a good time. In reality I helped the others with all kinds of work and managed to get some sponsorship from local companies.  
 The most important mission of the year (my opinion) is the Introduction Week for new students. I believe all of us planning the introduction in 2010 were ’80s and ’90s kids so our anthems became [Narcotic](https://www.youtube.com/watch?v=PJ7E40Ec5ec) and [Electric](https://www.youtube.com/watch?v=Jl_5NHTvDAI), which we listened to on repeat the whole week while doing all sorts of fun and crazy stuff.
 
@@ -109,7 +107,7 @@ In 2012 I travelled to USA 🇺🇸 with my friend Emil A to visit New York, Was
 I ran in to Emil S at BTH and later Rotundan, a guy I recognized from a previous school in Stockholm. We quickly became friends and shared many beers and laughs together during the years we both stayed in Karlskrona.
 
 I did manage to work on some games as well. Feel free to visit [my itch.io site](https://rasmusnordling.itch.io/) where you can see and download my games. I plan to upload more of my old stuff at some point.
-Downhill Willy, which I did together with "Micke" from Sexistenz, is probably the most popular one we did. See [my post about [Downhill Willy](posts/downhill-willy).
+Downhill Willy, which I did together with "Micke" from Sexistenz, is probably the most popular one we did. See my post about [Downhill Willy](posts/downhill-willy/).
 
 <figure>
 
@@ -129,8 +127,8 @@ Regards to my personal development I tried becoming a vegetarian, a meditation p
 
 ## Conclusion
 
-This is the first part of my decade review. The next posts in the series are Second Time in Stockholm (2016-2019) and Moving to Brisbane, Australia (2019).
+This is the first part of my decade review. Stay tuned for the next posts in the series: Second Time in Stockholm (2016-2019), and Moving to Brisbane, Australia (2019).
 
-Hope you have a good new year's! I sure got many chuckles traveling down memory lane.
+Hope you too had a good decade. Until next time!
 
 / Rasmus
