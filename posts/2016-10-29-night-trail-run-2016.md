@@ -13,6 +13,8 @@ To sum up my feelings, I am mostly relieved that I fought through the whole trai
 
 <!--more-->
 
+*This post was originally posted on [Dream BIG](https://rasmus-nordling.netlify.app/health-fitness/2016/10/29/night-trail-run-2016/)*.
+
 ## Race Experience
 
 The start was a bit delayed due to an accident at the E4 highway and I was really freezing since I'm stupid and don't know how to dress properly according to temperature. I realized that I most likely had the wrong shoes for the occasion as well.

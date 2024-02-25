@@ -9,6 +9,8 @@ Once again we enter a new year and in this post I reflect on the changes that ha
 
 <!--more-->
 
+*This post was originally posted on [Dream BIG](https://rasmus-nordling.netlify.app/2017/01/01/2016-year-end-review/)*.
+
 When talking about Role Models, I'm quick to mention Leo Babauta, as a huge inspiration for how to lead a great life.
 He got me interested in meditation and Getting Things Done. As a good habit I will do my annual review and post it on this blog. If you're interested in doing the same thing I highly recommend you read [this post](https://zenhabits.net/yearend/) by Leo.
 

@@ -6,11 +6,12 @@ tags:
   - Unity
 ---
 
-*This post was originally posted on [happy kodar](https://happykodar.blogspot.com/2016/04/nordic-game-jam-2016-post-mortem.html)*.
 
 I recently attended the 10th anniversary of the [Nordic Game Jam](https://www.nordicgamejam.com/) in Copenhagen, and it was an exhilarating experience.
 
 <!--more-->
+
+*This post was originally posted on [happy kodar](https://happykodar.blogspot.com/2016/04/nordic-game-jam-2016-post-mortem.html)*.
 
 ### Pre-Jam Activities
 

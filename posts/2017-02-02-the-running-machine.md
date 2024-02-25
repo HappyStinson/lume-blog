@@ -12,6 +12,8 @@ While reading the book [*Born to Run*](https://www.chrismcdougall.com/born-to-ru
 
 <!--more-->
 
+*This post was originally posted on [Dream BIG](https://rasmus-nordling.netlify.app/health-fitness/2017/02/02/the-running-machine/)*.
+
 My big fitness goal/challenge this year is to complete my very first marathon. I expect it to (and of course it will) be the best day of my life so far.
 
 It's still over 100 days left of PPP (practice, preparation, protein).

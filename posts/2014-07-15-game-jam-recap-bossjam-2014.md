@@ -28,7 +28,7 @@ The theme for the jam was "Inkorrekt val" (which translates to incorrect whale/c
 
 <figure>
 
-  ![Me and Michael in 2014](/img/gamedev/me-and-mike-regular.webp)
+  ![Rasmus and Michael during BOSSJam](/img/rasmus/me-and-mike-regular.webp)
   <figcaption>Rasmus and Michael during BOSSJam</figcaption>
 </figure>
 

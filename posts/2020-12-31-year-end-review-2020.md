@@ -9,6 +9,8 @@ In this post I reflect on my progress this year and am looking forward to reach 
 
 <!--more-->
 
+*This post was originally posted on [Dream BIG](https://rasmus-nordling.netlify.app/2020/12/31/2020-year-end-review/)*.
+
 I struggle to consistently do weekly and monthly reviews (especially during a hectic trimester) but at the end of every year I take some time to reflect on where I want to take my life next. It's an opportunity to share a slice of my life and hopefully it gives value to someone out there. 🙂
 
 What did go according to plan, what did not, in what ways did I change, what pop culture did I consume, and what do I look forward to in 2021? Keep on reading to find the answers.

@@ -8,6 +8,8 @@ You can make a lot happen in 365 days but it can be hard to realize the magnitud
 
 <!--more-->
 
+*This post was originally posted on [Dream BIG](https://rasmus-nordling.netlify.app/2018/02/02/2017-year-end-review/)*.
+
 This last year didn’t involve as much changes as 2016 did and I feel like these last two years have been very similar, only in 2017 it was **more** of everything.
 You can read my [2016 Year End Review here](/2017/01/01/2016-year-end-review/).
 

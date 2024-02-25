@@ -10,6 +10,8 @@ In this series of posts I will share my current version of my life principles an
 
 <!--more-->
 
+*This post was originally posted on [Dream BIG](https://rasmus-nordling.netlify.app/personal-development/spiritual/2017/06/05/life-principles-part-1/)*.
+
 Yesterday I tried to do my weekly/monthly review but got frustrated with organizing in [Wunderlist](https://www.projectmanager.com/blog/what-happened-to-wunderlist-5-alternatives) and ended up reading on [Lifehack](https://lifehack.org) instead.
 Anyone following the GTD-principles would agree that doing the weekly review is critical for staying on top of your life. So why do I struggle and procrastinate on this so much?
 Well it might got to do with self reflection and I have been reflecting a lot lately. I actually came up with the idea for this post in the shower this morning and now I’m composing the beginning of it on my way to work.

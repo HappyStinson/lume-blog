@@ -9,6 +9,8 @@ In this first part I will take you through the first half of 2010s where I spent
 
 <!--more-->
 
+*This post was originally posted on [Dream BIG](https://rasmus-nordling.netlify.app/2019/12/31/my-life-in-blekinge/)*.
+
 ## My Life in Blekinge (2010-2016)
 
 ### "Studying"
