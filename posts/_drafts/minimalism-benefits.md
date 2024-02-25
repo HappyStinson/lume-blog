@@ -12,9 +12,11 @@ Varför? För att öka fokuset och få mer gjort av det jag verkligen vill göra
 
 ## Content
 
-Slutade använda FB 20 feb. Var inne och kollade 22 mar - hade 77 notifieringar. Nu i efterhand 27/8 kan jag bli lite sne att man ändå blir tvungen att gå in och kolla och vissa hemsidor går till en fbsida. 
+Slutade använda FB 20 feb. Var inne och kollade 22 mar - hade 77 notifieringar. Nu i efterhand 27/8 kan jag bli lite sne att man ändå blir tvungen att gå in och kolla och vissa hemsidor går till en fbsida.
 
-> Letting go a little improves life. Letting go a lot brings happiness and joy. - Jim McGregor
+> Letting go a little improves life. Letting go a lot brings happiness and joy.
+> 
+> \- Jim McGregor
 
 Minimalism: Drömde att jag var på jobbet och det var stand.up. Marcus H skulle göra något men han ville sträckkolla första säsongen av en ny serie först och alla andra höll med och det började surras om hur bra den nya serien var och hur alla borde se den.
 Min reaktion var i princip att fnysa och säga "fuck that". Så jag är tydligen minimalist som säger nej även när jag sover.

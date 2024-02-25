@@ -38,3 +38,5 @@ Australia has been my number one travel destination for so long and I had alread
 I first stayed at a few backpackers hostels before finding a longer term accommodation, then finally settled in at Raymont College in 2020, where I stayed until I left Australia 3 years later.
 
 [Go to About](/about/)
+
+/ Rasmus

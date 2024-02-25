@@ -7,7 +7,9 @@ tag: minimalism
 
 ## Living Life to the Fullest with Minimal of things
 
-> As an experiment, write down the number of things you think you actually need. Then, write a list of all the things that you own. If the number of things you actually own exceeds your ideal need list, then it's time to organize. - Minns inte källan...
+> As an experiment, write down the number of things you think you actually need. Then, write a list of all the things that you own. If the number of things you actually own exceeds your ideal need list, then it's time to organize.
+> 
+> \- Minns inte källan...
 
 ### Inspiration
 

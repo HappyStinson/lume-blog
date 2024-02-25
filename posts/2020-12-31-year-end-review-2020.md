@@ -60,7 +60,9 @@ What about Sarah you might ask? She continued with trimester 3 and formed [Fligh
 After the break I resumed my degree and formed the "guitar driven rock band" *Junktion* with Mandy (vocals), Rob (vocals/guitar/keyboard) and Joohan (drums), while playing with RedStone.
 Junktion recorded the single *Righteous Brother* (that I wrote) with producer Steve James, who also produced Drifting Away.
 
-> Righteous Brother sounds like [Island in the Sun](https://youtu.be/erG5rgNYSdk) and [Mighty Quinn](https://open.spotify.com/track/1peVJH2dA6soU5cLVyM40Y). - Lecturers at JMC Academy
+> Righteous Brother sounds like [Island in the Sun](https://youtu.be/erG5rgNYSdk) and [Mighty Quinn](https://open.spotify.com/track/1peVJH2dA6soU5cLVyM40Y).
+> 
+> \- Lecturers at JMC Academy
 
 I enjoyed attending masterclasses in Guitar (Simon Gardner), Vocals (Emma Wilson and Shamus Kirkpatrick), Songwriting (Loic Valmy), and to perform with my talented mates several times at [the zoo](https://thezoo.com.au/) during the trimesters.
 
@@ -337,7 +339,9 @@ Have a look at my YouTube playlist [2020 Year End Review](https://www.youtube.co
 
 ### Read 📚
 
-> Today a reader, tomorrow a leader. - [W. Fusselman](https://www.dictionary-quotes.com/today-a-reader-tomorrow-a-leader-w-fusselman/)
+> Today a reader, tomorrow a leader.
+> 
+> \- [W. Fusselman](https://www.dictionary-quotes.com/today-a-reader-tomorrow-a-leader-w-fusselman/)
 
 I track most of my reading at [Goodreads](https://www.goodreads.com/user/show/74623439-rasmus). Here's a summary of the year.
 

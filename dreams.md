@@ -1,6 +1,7 @@
 ---
-layout: layouts/page.vto
+layout: layouts/post.vto
 title: Dreams
+author: Rasmus Nordling
 menu:
   visible: true
   order: 2
@@ -9,7 +10,9 @@ metas:
   description: Rasmus' Bold and Inspiring Bucket List!
 ---
 
-> Dream big. It's the first step to success. Just like that saying, shoot for the moon, even if you miss you'll land among the stars. So aim high, aim higher than you ever thought you could because if it just wasn't meant to be, you'll still shine. - [Unknown](https://www.searchquotes.com/search/Aim_For_The_Stars/)
+> Dream big. It's the first step to success. Just like that saying, shoot for the moon, even if you miss you'll land among the stars. So aim high, aim higher than you ever thought you could because if it just wasn't meant to be, you'll still shine.
+>
+> \- [Unknown](https://www.searchquotes.com/search/Aim_For_The_Stars/)
 
 On this page I'll list all the things I would like to achieve during my lifetime. It will be the backbone of this entire blog and most of my future posts will be related to achieving things on this list.
 
@@ -156,7 +159,7 @@ I plan to visit at least a new country annually and to have completed my trip ar
 
 - The Netherlands
 - Japan
-- ~~Australia~~ Moved to Brisbane in September 2019
+- ~~Australia~~ Lived in Brisbane September 2019 - March 2023
 - Norway
 - South Africa
 - Las Vegas
@@ -365,29 +368,34 @@ I'm in no way a Superman, but with enough time, practice and determination you'l
 
 ### Comfort Zone Challenges
 
-> Life begins at the end of your comfort zone - Neale Donald Walsch
+> Life begins at the end of your comfort zone.
+> 
+> \ - Neale Donald Walsch
 
 Below are some of my fears and things I find uncomfortable.
 I intend to do as many of these as possible in order to increase my comfort zone and decrease my fear.
 I won't be limited by my fears.
 
+Social
+
 - Stand up for you opinion, what's so scary about conflicts?
-- Snakes
-- Heights
-  - Bungyjump
-- Doing somersault on/from trampoline and diving board
-- [Dropping in](https://www.thoughtco.com/how-to-drop-in-on-skateboard-3002972) on a skateboard ramp
-- Parachute jumping
-- Perform music in front of an audience (I have started to do this regularly since I began studying at JMC Academy)
-  - Perform music in the public (Busking)
-- Donate blood
 - Fear of failure
+- I present on a TED Talk
 - Discomfort to come late
 - Hold a presentation in front of a bigger crowd
 - Talk to strangers (especially girls), in real life...
+- Perform music in front of an audience (I have started to do this regularly since I began studying at JMC Academy)
+  - Perform music in the public (Busking)
+
+- Snakes
+- Heights
+  - Bungyjump
+  - Parachute jumping
+- Doing somersault on/from trampoline and diving board
+- [Dropping in](https://www.thoughtco.com/how-to-drop-in-on-skateboard-3002972) on a skateboard ramp
+- Donate blood
 - Take an ice bath through a hole in the ice
 - [Flyboard](https://en.wikipedia.org/wiki/Flyboard)
-- I present on a TED Talk
 
 ## Romance
 

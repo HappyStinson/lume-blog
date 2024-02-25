@@ -72,7 +72,9 @@ When you use a combination of clear goals, combined with visualization and emoti
 
 Hur meditation och mindfulness kan hjälpa mot prokrastinering.
 
-> Any action done with awareness is meditation. Meditation means to be fully aware of our actions, thoughts, feelings and emotions. - Unknown
+> Any action done with awareness is meditation. Meditation means to be fully aware of our actions, thoughts, feelings and emotions.
+> 
+> \- Unknown
 
 https://itunes.apple.com/se/podcast/psykologipodden/id1125776471?l=en&mt=2&i=1000373978637
 

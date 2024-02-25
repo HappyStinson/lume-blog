@@ -86,7 +86,9 @@ vad innebär det för mig - gå upp tidigare, utsätta mina sinnen för nya uppl
 
 Focusing on the quality of my breath as it enters and leaves through the nose. Followed it all the way down to the stomach as it passed the lungs.
 
-> If you have time to breathe you have time to meditate. You breathe when you walk. You breathe when you stand. You breathe when you lie down. — Ajahn Amaro
+> If you have time to breathe you have time to meditate. You breathe when you walk. You breathe when you stand. You breathe when you lie down.
+> 
+> \— Ajahn Amaro
 
 ### Days 5-8 and the [Body Scan](https://zenhabits.net/practice-2-body-scan/)
 
@@ -225,7 +227,9 @@ Fourth day:
 
 Vill jag ha med någon bild? Kanske räcker med några citat?
 
-> Any action done with awareness is meditation. Meditation means to be fully aware of our actions, thoughts, feelings and emotions. - Unknown
+> Any action done with awareness is meditation. Meditation means to be fully aware of our actions, thoughts, feelings and emotions.
+> 
+> \- Unknown
 
 citatet från kung fu
 

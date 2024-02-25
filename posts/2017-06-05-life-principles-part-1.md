@@ -1,7 +1,7 @@
 ---
 title: To live according to my life principles - part 1
 tags:
-  - Spiritual
+  - Spirituality
 ---
 
 Hello again,
@@ -16,17 +16,23 @@ Yesterday I tried to do my weekly/monthly review but got frustrated with organiz
 Anyone following the GTD-principles would agree that doing the weekly review is critical for staying on top of your life. So why do I struggle and procrastinate on this so much?
 Well it might got to do with self reflection and I have been reflecting a lot lately. I actually came up with the idea for this post in the shower this morning and now I’m composing the beginning of it on my way to work.
 
-The following quote comes from the *[7Life System](https://highexistence.com/7life-system-the-simple-structure-that-will-change-your-life/)*.
-> Your principles are the foundation on which you stand, and if you don’t define them, you leave it to the world to do so for you. The 7Life system has you define seven principles – those core values that state who you are, how you behave and how you operate.
+> Your principles are the foundation on which you stand, and if you don’t define them, you leave it to the world to do so for you.
+> The 7Life system has you define seven principles – those core values that state who you are, how you behave and how you operate.
+> 
+> \- [7Life System](https://highexistence.com/7life-system-the-simple-structure-that-will-change-your-life/)
 
-## Rasmus 7 Life Principles that is current June 2017
+## Rasmus 7 Life Principles, June 2017
 
 1. Help myself first, then help those who do good for others
 2. Encourage others to follow their dreams and offer my help
 3. Don't be judgmental towards strangers and avoid prejudice
 4. Step out of my comfort zone as often as possible and face my fears regularly
 5. [The Boy Scout Rule](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/thing_08/index.html)
-> "Try and leave this world a little better than you found it." - Robert Stephenson Smyth Baden-Powell
+
+> Try and leave this world a little better than you found it.
+>
+> \- Robert Stephenson Smyth Baden-Powell
+
 6. Always choose the healthier option
 7. Make a difference for others and share my knowledge in a polite way when possible
 
