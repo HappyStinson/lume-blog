@@ -142,7 +142,7 @@ It’s all very simple furniture. Both the desk and chair are tall and made out 
 
 That’s it! My investigation of the person living in my room. It was really fun doing it. What do _YOU_ see? Is this an accurate description of the Rasmus you know?
 
-Now that you made it this far you might be interested in reading more [About Me](about).
+Now that you made it this far you might be interested in reading more [About Me](/about).
 
 Best regards,
 

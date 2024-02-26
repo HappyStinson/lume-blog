@@ -61,9 +61,11 @@ During the year I was very excited for all the different songwriting community p
 ## What I Accomplished
 
 - Read two books: [Gratislunchen (the Free Lunch)](https://www.goodreads.com/book/show/30127258-gratislunchen) and [Getting Things Done](https://www.goodreads.com/book/show/22521573-getting-things-done)
-- Uploaded an old [song](https://soundcloud.com/happystinson/debuten) to SoundCloud
 - Started a Patreon contribution by $1 for every new episode of the [Markus and Malcom podcast](https://www.patreon.com/user?u=2479719)
 - Finally looked up a dentist in Stockholm and booked an appointment after a long time of procrastination
+- Uploaded my old song *Debuten* to SoundCloud
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305976317&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/happystinson" title="Happy Stinson (Metaverse Muso)" target="_blank" style="color: #cccccc; text-decoration: none;">Happy Stinson (Metaverse Muso)</a> · <a href="https://soundcloud.com/happystinson/debuten" title="Debuten" target="_blank" style="color: #cccccc; text-decoration: none;">Debuten</a></div>
 
 ### Events
 
@@ -76,7 +78,7 @@ During the year I was very excited for all the different songwriting community p
 
 **Political and Sustainable Development:** Spending several days in Almedalen visiting my sister and engaging in political discussions was the **highlight of 2017**. Some of the other political events I've been to include:
 
-- Tobacco Endgame/Global Development seminars that I mentioned [in this post](/2017/05/19/weekly-news/)
+- Tobacco Endgame/Global Development seminars that I mentioned [in this post](/posts/week-20-2017)
 - Public seminars about NATO- among the organizers was Vänsterpartiet (Left Party)
 - Stockholm Act, Global Bar and a concert with José Gonzalez
 - People's Climate March Stockholm – Together for a Sustainable Future!

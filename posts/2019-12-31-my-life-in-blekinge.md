@@ -1,7 +1,11 @@
 ---
 title: My Life in Blekinge (2010-2016) - Decade Review part 1
 tags:
-  - Personal
+  - Blekinge
+  - Music
+  - Personal Development
+  - Studying
+  - Travel
 ---
 
 Hello from a warm Brisbane! We are about to enter another year but also a new decade. I would like to take this opportunity and review my past ten years and share some of it in this post. This decade has been very fun and varied, yet demanding at the same time.  
@@ -13,7 +17,7 @@ In this first part I will take you through the first half of 2010s where I spent
 
 ## My Life in Blekinge (2010-2016)
 
-### "Studying"
+### Studying
 
 Doing this review feels a bit like a CV, and in actuality it is.
 
@@ -32,11 +36,15 @@ This was my first time living by myself and away from the family. I didn't bring
 Since the Ronneby Campus was closing, me, my friends, and girlfriend at the time moved to the Minerva apartments in Karlskrona.
 When the campus in Ronneby closed, the two organisations 6& (Ronneby [Sexmästeri](https://sv.wikipedia.org/wiki/Sexm%C3%A4steri)) and 6:- (Carlskrona Sexmästeri) would merge and a group of sixteen handpicked students were assigned the task to form a new organisation. Myself along with my fifteen friends came up with the name [Sexistenz](https://sexistenz.bthstudent.se/). It's one of the groups responsible for organizing events for the fellow students.  
 We voted on a new outfit and kept the best traditions, along with making new ones. We all had different skillsets and I was SpexMästare, which I guess meant my skillset included being creative, spontaneous, and make people have a good time. In reality I helped the others with all kinds of work and managed to get some sponsorship from local companies.  
-The most important mission of the year (my opinion) is the Introduction Week for new students. I believe all of us planning the introduction in 2010 were ’80s and ’90s kids so our anthems became [Narcotic](https://www.youtube.com/watch?v=PJ7E40Ec5ec) and [Electric](https://www.youtube.com/watch?v=Jl_5NHTvDAI), which we listened to on repeat the whole week while doing all sorts of fun and crazy stuff.
+The most important mission of the year (my opinion) is the Introduction Week for new students. I believe all of us planning the introduction in 2010 were ’80s and ’90s kids so our anthems became Narcotic and Electric, which we listened to on repeat the whole week while doing all sorts of fun and crazy stuff.
 
 ![Rasmus with Sexistenz in 2010](/img/rasmus/sexistenz-2010-small.webp)
 
 ![Rasmus with Sexistenz in 2010](/img/rasmus/sexistenz-2-2010-small.webp)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJ7E40Ec5ec?si=46l_ztAWaiRuPwUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jl_5NHTvDAI?si=5M3q2P-jd5WtsmAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 After handing down the responsibilities to the next generation of Sexistenz, I was able to join other groups and got approached by the "quasi" (in lack of a better word) [Kååtha Kamrater](https://kaatha-kamrater.se/). I really enjoyed their company and got inducted along with "Molle", "Smulan" and "Lill-Rauken", all from Sexistenz, to get my own camo vest. We have many good memories together. Some nights were even to good to be remembered.
 
@@ -74,7 +82,7 @@ After a while he moved out and I lived by myself until March 2016 when I moved b
 During all this time I was a full-time student until 2012 when the expected graduation would have been. This was the whole reason I moved to Blekinge in the first place. I still had a couple of courses and exams to pass before I could get my degree. I swapped one of the courses for an online based course in web development taught by Mikael Roos (also at BTH). The assignments we did are probably available on some FTP somewhere.  
 I also worked part-time at Student IT Helpdesk at BTH between 2011 and 2013 until I got my job at Wise IT.
 
-### "Working"
+### Working
 
 My first full-time position was as an IT Support Technician at Wise IT. I was providing user support of an application for the Swedish Coast Guard. I was pretty sick at school at this point and took a sabbatical where I just worked. Later I would join CGI and split my responsibilities between one part support (which turned into more Service Desk work), and one part back-end web development in C# and ASP.NET.  
 During my time at CGI I also did a shorter gig helping another government agency (National Board of Housing, Building and Planning). This time with the front-end in JavaScript (AngularJS).
@@ -83,7 +91,7 @@ I got my degree in 2015 and then started looking for other opportunities in Stoc
 
 ![Rasmus working in Servicedesk 2014](/img/rasmus/rasmus-servicedesk-2014-regular.webp)
 
-### "Living"
+### Living
 
 In the summer of 2010 I was back home visiting my family in Stockholm and met a funny photographer/musician named Mathias Andersson. We shared a couple of drinks and he was kind enough to take pictures of me.
 You can see more of his photos on [his Facebook page](https://www.facebook.com/MathiasAPhotography/).
@@ -109,7 +117,7 @@ In 2012 I travelled to USA 🇺🇸 with my friend Emil A to visit New York, Was
 I ran in to Emil S at BTH and later Rotundan, a guy I recognized from a previous school in Stockholm. We quickly became friends and shared many beers and laughs together during the years we both stayed in Karlskrona.
 
 I did manage to work on some games as well. Feel free to visit [my itch.io site](https://rasmusnordling.itch.io/) where you can see and download my games. I plan to upload more of my old stuff at some point.
-Downhill Willy, which I did together with "Micke" from Sexistenz, is probably the most popular one we did. See my post about [Downhill Willy](posts/downhill-willy/).
+Downhill Willy, which I did together with "Micke" from Sexistenz, is probably the most popular one we did. See my post about [Downhill Willy](/posts/game-jam-recap-bossjam-2014/).
 
 <figure>
 

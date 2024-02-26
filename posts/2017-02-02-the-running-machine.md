@@ -22,11 +22,11 @@ Another exciting thing is that I applied for the ASICS FrontRunner Swedish team.
 
 My current race calendar for 2017:
 
-- [Arena Run](thepost) - February 18
+- [Arena Run](/posts/arena-run-2017) - February 18
 - Stockholm Tunnel Run Citybanan - March 26
 - ASICS Premiärmilen - April 1
 - STHLM Trail Run - May 6
-- [MilSpåret](thepost) - May 18
+- [MilSpåret](/posts/week-20-2017) - May 18
 - ASICS Stockholm Marathon - June 3
 - STHLM 10 - June 15
 - Stockholm Halvmarathon - September 9

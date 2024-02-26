@@ -1,7 +1,13 @@
 ---
 title: 2020 Year End Review
 tags:
-  - Personal
+  - Brisbane
+  - Meditation
+  - Music
+  - Personal Development
+  - Spirituality
+  - Studying
+  - Running
 ---
 
 Another year has come to an end and 2020 has been challenging for a lot of people all over the planet.
@@ -17,7 +23,7 @@ What did go according to plan, what did not, in what ways did I change, what pop
 
 ## Rasmus Nordling's 10 Goals for 2020
 
-At the beginning of the year I wrote down these nine (no. 10 has disappeared) goals below that I believed would take me closer to some of my [dreams](/dreams) and close the gap to my full potential.
+At the beginning of the year I wrote down these nine (no. 10 has disappeared) goals below that I believed would take me closer to some of my [Dreams](/dreams) and close the gap to my full potential.
 
 I have put down *fear of failure* as one of my Comfort Zone Challenges and I think it's very natural not wanting to fail, but I've come to realize it's better to set BIG, ambitious goals and maybe fail rather than going safe. There's always opportunity for growth in every failed attempt.
 
@@ -218,7 +224,7 @@ Probably the best decision this year was moving to the Raymont College. I have g
 ### Relationships
 
 - Skyped with my parents and sister more or less every weekend since I arrived in 🇦🇺
-- 10 year anniversary with my friend Mathias. Rang him up a couple of times during the year to ask for life advice, from someone 2 days older. Here's us performing my song [Empty Apartment](https://youtu.be/8o8z3_cP7Vg)
+- 10 year anniversary with my friend Mathias. Rang him up a couple of times during the year to ask for life advice, from someone 2 days older.
 - Caught up with my Bulgarian friend, Atanas via Zoom
 - Conversed with Jelena from Serbia again 🦌 (met her via [Slowly](https://getslowly.com) in 2018)
 - Met heaps of fantastic JMC students and alumni this year 😁
@@ -372,11 +378,11 @@ Finished:
 
 Here's the 100 Songs from 2020 that the Spotify algorithm gave me.
 
-<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1ELWVieAOMuf1E" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1ELWVieAOMuf1E" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Here's another 80+ songs that became the *soundtrack of my life* in 2020.
+Here's another 80+ songs that became the *Soundtrack* of my life this year.
 
-<iframe src="https://open.spotify.com/embed/playlist/5ncrgupvC12lqegW5s2cGA" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5ncrgupvC12lqegW5s2cGA" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Podcasts**
 
@@ -443,8 +449,8 @@ Here's some of my other expenses this year:
 ## Things I look forward to in 2021
 
 - Ghost's [fifth studio album](https://metalinjection.net/upcoming-releases/ghost-in-the-studio-now-wont-release-a-new-album-until-after-summer-2021)
-- Foo Fighters tenth studio album [Medicine at Midnight](https://youtu.be/R1G6-RUz3OA)
-- Going to Sweden for some holiday
+- Foo Fighters tenth studio album *Medicine at Midnight*
+- Going to Sweden for some holiday[^3]
 - Fernando Alonso's return to F1 (and Lewis Hamilton's 8th title 😉)
 - Grow as a musician (writing, producing, performing, scoring, etc.)
 - Publish/Release my first solo album on Bandcamp and streaming platforms
@@ -454,6 +460,12 @@ Here's some of my other expenses this year:
 - Learn more about my HX Effects and create some great guitar tones
 - Elective units in trimester 4: Music Tech III, and Lyric & Songwriting II
 - Run my first ultra, 100 km ? 🏃‍♂️😜
+
+[^3]: Didn't happen because of pandemic travel restrictions.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2cLBWJAz6MCH4t3P3FShBA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1G6-RUz3OA?si=PKi8xTUD2Cp4PkUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Hope you found this interesting. Until next time.
 

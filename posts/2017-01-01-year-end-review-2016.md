@@ -88,7 +88,7 @@ No change in 2016: I am still Single and ready to *Mingle*.
 
 ### Activities
 
-I found the great site for [meetups](https://www.meetup.com/) and have among others attended meetups for GTD, Arduino development, Code Nights, Lounge Hacks, Indie Game Dungeon. Here's my [post-mortem from Nordic Game Jam](/fun-recreation/2016/04/20/nordic-game-jam-2016-post-mortem.html).
+I found the great site for [meetups](https://www.meetup.com/) and have among others attended meetups for GTD, Arduino development, Code Nights, Lounge Hacks, Indie Game Dungeon. Here's my [post-mortem from Nordic Game Jam](/posts/nordic-game-jam-post-mortem-2016).
 
 **Lyric workshop:** Went to a 3 part workshop hosted by [Jonelle Vette](https://www.vettemusic.com/). I got into object writing and have some samples that might turn into great songs. I really focused on writing and playing guitar during these weeks. I should get that mood and productivity back. _FAWM_, February Album Writing Month, is only a month away.
 
