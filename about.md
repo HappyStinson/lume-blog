@@ -34,6 +34,8 @@ I am doing this partly as a pet project, partly because writing is quite therape
 <figcaption class="code-caption">Rasmus on stage in 2020</figcaption>
 </figure>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8o8z3_cP7Vg?si=6HYFO3Kb0BIj_lbJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Site Details
 
 - Static Site Generator: [Lume](https://lume.land/).
